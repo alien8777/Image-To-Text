@@ -1,4 +1,4 @@
-# Image-To-Text
+# Image-To-Text Convertion 
 #### Datasets instructions
 ```
 Go to the datasets folder
